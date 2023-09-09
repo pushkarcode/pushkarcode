@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pushkar26547523" target="blank"><img src="https://img.shields.io/twitter/follow/pushkar26547523?logo=twitter&style=for-the-badge" alt="pushkar26547523" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **awwwards web design**
 
-- 💬 Ask me about **react, gsap and javascript and MEARN**
+- 💬 Ask me about **react, gsap and javascript, MEARN**
 
-- 📫 How to reach me **pushkarsharma9131@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/pushkar-sharma-3b76a2236**
 
 - ⚡ Fun fact **I think I am funny**
 
