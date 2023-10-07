@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/pushkar-sharma-3b76a2236**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun Fact I know i am **√(1+tan²C)​**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
